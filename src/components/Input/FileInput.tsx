@@ -202,7 +202,7 @@ const FileInputBase: ForwardRefRenderFunction<
                 >
                   <Icon as={FiPlus} w={14} h={14} />
                   <Text as="span" pt={2} textAlign="center">
-                    Adicione sua imagem
+                    Add your photo
                   </Text>
                 </Flex>
               </Box>
