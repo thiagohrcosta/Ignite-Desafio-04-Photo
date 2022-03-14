@@ -125,13 +125,13 @@ export function FormAddImage({ closeModal }: FormAddImageProps): JSX.Element {
         />
 
         <TextInput
-          placeholder="Photo title..."
+          placeholder="Título da foto..."
           error={errors.title}
           {...register('title', formValidations.title)}
         />
 
         <TextInput
-          placeholder="Photo description..."
+          placeholder="Descrição da foto..."
           error={errors.description}
           {...register('description', formValidations.description)}
         />
