@@ -2,7 +2,7 @@
 ![MainImg](https://res.cloudinary.com/dloadb2bx/image/upload/v1635994845/0ff8ac80-8026-11eb-8ed1-e8b77764fbcd_el3ft3.png)
 
 ## CAPÍTULO 04 - DESAFIO 01
-![enter image description here](https://res.cloudinary.com/dloadb2bx/image/upload/v1647278634/UploadIMG_rub1mx.gif)
+![enter image description here](https://res.cloudinary.com/dloadb2bx/image/upload/v1647280467/Peek_14-03-2022_14-53_whmiab.gif)
 
 This repository stores the **Challenge 01** of **Chapter 04**, of the specialization in **ReactJS** taught by **[ROCKETSEAT](https://www.rocketseat.com.br/)** in its  **IGNITE PRO** course.
 
